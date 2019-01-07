@@ -72,7 +72,7 @@ systemctl enable mysqld
 ```
 grep 'temporary password'  /var/log/mysqld.log
 ```
-![image](https://yiyingcanfeng-blog-1253518847.cos.ap-shanghai.myqcloud.com/2019-01-06-1.png)
+![image](https://yiyingcanfeng-blog-1253518847.cos.ap-shanghai.myqcloud.com/2019-01-06-1.png)  
 7.使用生成的临时密码登录mysql  
 
 ```
@@ -121,10 +121,10 @@ flush privileges;
 systemctl restart mysqld;
 ```
 重启mysql服务也行  
-官方文档：[++https://dev.mysql.com/doc/refman/5.7/en/linux-installation-yum-repo.html++](https://dev.mysql.com/doc/refman/5.7/en/linux-installation-yum-repo.html)
+官方文档：[https://dev.mysql.com/doc/refman/5.7/en/linux-installation-yum-repo.html](https://dev.mysql.com/doc/refman/5.7/en/linux-installation-yum-repo.html)
 # 二、使用MySQL Yum Repository在centos上安装MySQL
 #### (确保网络畅通)
-下载地址：[++https://repo.mysql.com//mysql57-community-release-el7-11.noarch.rpm++](https://repo.mysql.com//mysql57-community-release-el7-11.noarch.rpm)  
+下载地址：[https://repo.mysql.com//mysql57-community-release-el7-11.noarch.rpm](https://repo.mysql.com//mysql57-community-release-el7-11.noarch.rpm)  
 1.下载发行包  
 
 ```
