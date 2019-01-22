@@ -73,6 +73,7 @@ systemctl enable mysqld
 grep 'temporary password'  /var/log/mysqld.log
 ```
 ![image](https://yiyingcanfeng-blog-1253518847.cos.ap-shanghai.myqcloud.com/2019-01-06-1.png)  
+
 7.使用生成的临时密码登录mysql  
 
 ```
