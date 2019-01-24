@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Centos7安装mysql
-subtitle:   Centos7安装mysql
+subtitle:   
 date:       2019-01-05
 author:     BY
 header-img: img/post-bg-debug.png
