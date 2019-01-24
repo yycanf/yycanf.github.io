@@ -3,7 +3,7 @@ layout:     post
 title:      Centos7安装mysql
 subtitle:   
 date:       2019-01-05
-author:     BY
+author:     移影残风
 header-img: img/post-bg-debug.png
 catalog: true
 tags:

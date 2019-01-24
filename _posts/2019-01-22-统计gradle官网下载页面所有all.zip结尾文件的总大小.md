@@ -3,7 +3,7 @@ layout:     post
 title:      统计gradle官网下载页面所有all.zip结尾文件的总大小
 subtitle:   
 date:       2019-01-22
-author:     BY
+author:     移影残风
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
