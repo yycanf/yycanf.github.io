@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      统计gradle官网下载页面所有all.zip结尾文件的总大小
+title:      CentOS初始化脚本 CentOS-init.sh
 subtitle:   
 date:       2019-01-24
 author:     移影残风
